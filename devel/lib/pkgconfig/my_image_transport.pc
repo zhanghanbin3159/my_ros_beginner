@@ -1,0 +1,8 @@
+prefix=/media/pesong/e/dl_gaussian/ros/catkin_ws/devel
+
+Name: my_image_transport
+Description: Description of my_image_transport
+Version: 0.0.0
+Cflags: -I/media/pesong/e/dl_gaussian/ros/catkin_ws/src/my_image_transport/include
+Libs: -L/media/pesong/e/dl_gaussian/ros/catkin_ws/devel/lib -lmy_image_transport_lib
+Requires: cv_bridge image_transport roscpp std_msgs
